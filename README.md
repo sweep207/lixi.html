@@ -1,2 +1,1 @@
-# lixi.html
-Created with CodeSandbox
+Tạo Lixi bạn bè
